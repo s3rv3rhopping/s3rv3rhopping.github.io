@@ -1,5 +1,5 @@
 body {
-  background-color: green;
+  background-color: gray;
 }
 
 p {
@@ -9,4 +9,5 @@ p {
 h1 {
   color: red;
   font-style: italic;
+  font-style: bold;
 }
