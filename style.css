@@ -12,11 +12,13 @@ h1 {
   color: red;
   font-style: italic;
   font-weight: bold;
+  font-size: 500px;
 }
 h1.solidwithcurves {
   border-style: solid; 
   border-radius: 10px;
   height: 60px;
+  border-width: 700px:
 }
 h3.solidh3 
 {border-style: solid;
