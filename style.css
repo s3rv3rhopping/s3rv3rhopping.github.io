@@ -13,3 +13,5 @@ h1 {
   font-style: italic;
   font-weight: bold;
 }
+h1.solid {border-style: solid;}
+h3.solidh3 {border-style: solid;}
