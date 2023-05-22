@@ -2,12 +2,14 @@ body {
   background-color: gray;
 }
 
+h3 {
+  color: black;
+}
 p {
   color: black;
 }
-
 h1 {
   color: red;
   font-style: italic;
-  font-style: bold;
+  font-weight: bold;
 }
