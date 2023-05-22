@@ -1,6 +1,14 @@
 <style>
-body {backround-color: green;
-p {color: black;
-h1 {color: red;
-h1 {font: italic;
+body {
+  background-color: green;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  color: red;
+  font-style: italic;
+}
 </style>
