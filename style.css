@@ -13,5 +13,5 @@ h1 {
   font-style: italic;
   font-weight: bold;
 }
-h1.solid {border-style: solid;}
+h1.solidwithcurves {border-style: solid; border-radius: 10px;}
 h3.solidh3 {border-style: solid;}
